@@ -8,12 +8,12 @@ var pathFile = {
         
     },
     js: {
-        0: 'https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js',
-        1: 'https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/jquery-ui.min.js"'
+        0: 'https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/jquery-ui.min.js"',
+        1: 'https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js'   
     }
 };
 var elemAppend = {
-    tagJs: 'footer' //mudando a tag padrão
+    tagJs: 'footer' //mudando a tag padrï¿½o
 };
 includeCssOrJS(pathFile);
 
