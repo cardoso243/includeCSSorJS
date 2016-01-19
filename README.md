@@ -29,7 +29,7 @@ Criar um aquivo js com as seguintes configurações.
     }
  };
  var elemAppend = {
-   tagJs: 'footer' //passando ou valor para tagJs
+   tagJs: 'footer' //passando o valor para tagJs
  };
  includeCssOrJS(pathFile,elemAppend);
 ```
