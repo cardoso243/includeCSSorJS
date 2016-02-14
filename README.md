@@ -9,7 +9,7 @@ tagJs  | body
 
 ### Como usar
 
-incluir os arquivos dos diretório libs e js na index.* 
+incluir os arquivos dos diretório libs com os js na index.* 
 ```js
 <script src="assets/libs/includeCssOrJs.js"></script>
 <script src="assets/js/config-include.js"></script>
